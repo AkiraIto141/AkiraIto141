@@ -1,6 +1,13 @@
 ## Bem-vindo(a) ao perfil de Akira Ito141 😁
+<br>
+<div>
 
- <div>
+## Meu apelido aqui nessa plataforma é Akira Ito
+ 
+Estou utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos que estou fazendo e criando 
+<br>
+
+
    <a href="https://github.com/AkiraIto141">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkiraIto141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraIto141&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -13,12 +20,6 @@
 
 <br>
 <br>
-
-Meu apelido aqui nessa plataforma é Akira Ito
- 
-Estou utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos que estou fazendo e criando 
-
-<br>
  
 ### Me segue nas redes sociais abaixo!
  
@@ -27,6 +28,10 @@ Estou utilizo esse espaço para minha organização e compartilhamento dos meus 
   <a href="https://www.instagram.com/carlos_eduardo_crepaldi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="discordapp.com/users/914157674042630205" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "akiraito141@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+As informações acima sobre redes sociais estão com nomes de perfis diferentes, não se preocupe são todas minhas contas, mas cada uma tem uma finalidade diferente então não se preocupe.
+Quando eu tiver tempo vou criar perfis certos para cada botão, podendo ficar tudo padrão.  
+
 
 <div>
 <br>
