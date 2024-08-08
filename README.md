@@ -30,7 +30,6 @@ Estou utilizo esse espaço para minha organização e compartilhamento dos meus 
   <a href = "akiraito141@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 As informações acima sobre redes sociais estão com nomes de perfis diferentes, não se preocupe são todas minhas contas, mas cada uma tem uma finalidade diferente então não se preocupe.
-Quando eu tiver tempo vou criar perfis certos para cada botão, podendo ficar tudo padrão.  
 
 
 <div>
